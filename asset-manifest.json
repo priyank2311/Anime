@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Anime/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Anime/static/js/main.4f3bc2c7.chunk.js",
+    "main.js.map": "/Anime/static/js/main.4f3bc2c7.chunk.js.map",
+    "runtime-main.js": "/Anime/static/js/runtime-main.12abecfe.js",
+    "runtime-main.js.map": "/Anime/static/js/runtime-main.12abecfe.js.map",
+    "static/js/2.daff804d.chunk.js": "/Anime/static/js/2.daff804d.chunk.js",
+    "static/js/2.daff804d.chunk.js.map": "/Anime/static/js/2.daff804d.chunk.js.map",
+    "static/js/3.ddb60bf1.chunk.js": "/Anime/static/js/3.ddb60bf1.chunk.js",
+    "static/js/3.ddb60bf1.chunk.js.map": "/Anime/static/js/3.ddb60bf1.chunk.js.map",
+    "index.html": "/Anime/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Anime/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.daff804d.chunk.js.LICENSE.txt": "/Anime/static/js/2.daff804d.chunk.js.LICENSE.txt",
+    "static/media/p1.f139e3b6.png": "/Anime/static/media/p1.f139e3b6.png",
+    "static/media/p2.9d5f1bfe.png": "/Anime/static/media/p2.9d5f1bfe.png",
+    "static/media/p3.50513d40.png": "/Anime/static/media/p3.50513d40.png",
+    "static/media/p4.81d974e9.png": "/Anime/static/media/p4.81d974e9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12abecfe.js",
+    "static/js/2.daff804d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.4f3bc2c7.chunk.js"
+  ]
+}
